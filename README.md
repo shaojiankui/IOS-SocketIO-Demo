@@ -1,17 +1,21 @@
-IOS-SocketIO-Demo
-=================
+<h1>IOS-SocketIO-Demo</h1>
 
-IOS as Client of Web SocketIO!! 
+<p>IOS as Client of Web SocketIO!!</p>
 
+<p>1.安装nodejs</p>
 
-1.安装nodejs
-brew install nodejs
+<p>brew install nodejs</p>
 
-2.npm命令安装socket.io
-cd  ServerWebSocket
-npm install --save socket.io
-npm install --save node-uuid
-npm install --save express
+<p>2.npm命令安装socket.io</p>
 
-3.创建app.js
-4.运行node app.js
+<p>cd  ServerWebSocket</p>
+
+<p>npm install --save socket.io</p>
+
+<p>npm install --save node-uuid</p>
+
+<p>npm install --save express</p>
+
+<p>3.创建app.js</p>
+
+<p>4.运行node app.js</p>
